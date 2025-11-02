@@ -1,12 +1,14 @@
 [build]
   publish = "public"
-  command = "bash ./build.sh"
+  command = "chmod +x build.sh && ./build.sh"
+
+[build.environment]
+  HUGO_VERSION = "0.121.1"
+  HUGO_ENV = "production"
+  GIT_SUBMODULE_STRATEGY = "recursive"
 
 [context.production.environment]
   GIT_SUBMODULE_STRATEGY = "recursive"
-
-[build.environment]
-  HUGO_VERSION = "0.140.2"
 
 [[redirects]]
   from = "/*"
