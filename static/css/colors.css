@@ -7,7 +7,7 @@
     --header-bordercolor-1: #dfeed4ff;
     --modal-bg-container-color: #00000055;
     --selected-button-color3: #fff;
-    --header-color: #004d65ed;
+    --header-color: #000000ed;
     --header-bg-color: #222731ee;
     --selected-button-color4: #000000ee;
     --button-color2: #000;
@@ -28,5 +28,5 @@
     --main-bg: #000;
     --footer-bg-color: #fefefe;
     --selected-text-color1: #fff;
-    --hero-bg-color: #1b6600ff;
+    --hero-bg-color: #000000;
 }
