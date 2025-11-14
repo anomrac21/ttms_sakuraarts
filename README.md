@@ -29,7 +29,7 @@ The following placeholders will be automatically replaced when creating a new cl
 ├── scripts/            # Helper scripts
 ├── hugo.toml           # Hugo configuration (with placeholders)
 ├── netlify.toml        # Netlify deployment config
-└── build.sh            # Build script
+└── build_menu.sh       # Build script
 
 ## Theme
 
@@ -67,7 +67,7 @@ hugo server -D
 hugo --minify
 
 # Or use the build script
-./build.sh
+./build_menu.sh
 ```
 
 ## License

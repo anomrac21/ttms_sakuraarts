@@ -1,12 +1,12 @@
 [build]
   publish = "public"
-  command = "./build.sh"
+  command = "./build_menu.sh"
 
 [build.environment]
   HUGO_VERSION = "0.121.1"
   HUGO_ENV = "production"
   # Let Netlify clone submodules recursively during build
-  # build.sh will configure Git to use HTTPS for GitHub URLs
+  # build_menu.sh will configure Git to use HTTPS for GitHub URLs
   GIT_SUBMODULE_STRATEGY = "recursive"
 
 [context.production.environment]
