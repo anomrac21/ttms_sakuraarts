@@ -1,6 +1,6 @@
 [build]
   publish = "public"
-  command = "./build_menu.sh"
+  command = "bash build_menu.sh"
 
 [build.environment]
   HUGO_VERSION = "0.121.1"
