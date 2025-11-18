@@ -39,10 +39,9 @@ theme = '_menus_ttms'
   vat = 0
   servicecharge = 0
   hastables = true
+  usephonecall = false
   whatsapp = {{WHATSAPP}}
-
-[params.orderingmenu]
-  sidesname = "Rolls"
+  phone = {{PHONE}}
   
 # Social profiles
 [params.social]
