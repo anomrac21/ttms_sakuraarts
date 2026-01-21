@@ -1,6 +1,6 @@
-baseURL = 'https://{{CLIENT_NAME}}.ttmenus.com/'
+baseURL = 'https://sakuraarts.ttmenus.com/'
 languageCode = 'en-tt'
-title = '{{SITE_TITLE}}'
+title = 'Sakura Arts'
 theme = '_menus_ttms'
 
 [params]
@@ -18,13 +18,13 @@ theme = '_menus_ttms'
 [params.content]
   enabled = true
   apiUrl = "https://content.ttmenus.com/api"
-  clientId = "ttms_{{CLIENT_NAME}}"
+  clientId = "ttms_sakuraarts"
 
 # Ads Service Configuration
 [params.ads]
   enabled = true
   apiUrl = "https://ads.ttmenus.com/api/v1"
-  clientId = "ttms_{{CLIENT_NAME}}"
+  clientId = "ttms_sakuraarts"
 
 # Notification Service Configuration
 [params.notifications]
@@ -34,7 +34,7 @@ theme = '_menus_ttms'
   serviceUrl = "https://notify.ttmenus.com"
 
 [params.services]
-  analyticsid = {{ANALYTICS_ID}}
+  analyticsid = 0
   notifications = true
 
 [params.features]
@@ -47,8 +47,8 @@ theme = '_menus_ttms'
   servicecharge = 0
   hastables = true
   usephonecall = false
-  whatsapp = {{WHATSAPP}}
-  phone = {{PHONE}}
+  whatsapp = 0
+  phone = 0
   
 # Social profiles
 [params.social]
@@ -56,8 +56,8 @@ theme = '_menus_ttms'
   instagram = ""
   tiktok = ""
   youtube = ""
-  email = "{{EMAIL}}"
-  phone = {{PHONE}}
+  email = ""
+  phone = 0
   
 [markup]
   [markup.goldmark]
