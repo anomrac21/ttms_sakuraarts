@@ -1,5 +1,5 @@
 ---
 title: Appetizers
 weight: "3"
-icon: https://ct.ttmenus.com/icons/food/icon-appetizer.webp
+icon: https://ct.ttmenus.com/icons/food/icon-wonton.webp
 ---
