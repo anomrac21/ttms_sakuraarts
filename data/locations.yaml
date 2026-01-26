@@ -2,7 +2,7 @@ locations:
   - address: "2 Taylor Street, Woodbrook"
     city: "Port of Spain"
     island: "Trinidad"
-    latlon: [10.499535,-61.408134]
+    latlon: [10.664327286932412, -61.529414923082655]
     phone: "240-1599"
     whatsapp: "240-1599"
     subcategories: []
@@ -11,15 +11,9 @@ locations:
     opening_hours:
       mode: "Auto"
       sun:
-        - type: "Open"
-          time: "11:00"
         - type: "Close"
-          time: "22:00"
       mon:
-        - type: "Open"
-          time: "11:00"
         - type: "Close"
-          time: "22:00"
       tue:
         - type: "Open"
           time: "11:00"
@@ -45,4 +39,89 @@ locations:
           time: "11:00"
         - type: "Close"
           time: "22:00"
-
+  - address: "Branch Off Hub, 3 Store Bay Branch Road, Bon Accord"
+    city: "Bon Accord"
+    island: "Tobago"
+    latlon: [11.157705211425823, -60.82824292484688]
+    phone: "257-8744"
+    whatsapp: "257-8744"
+    subcategories: []
+    orderingtables: []
+    delivery:
+    opening_hours:
+      mode: "Auto"
+      sun:
+        - type: "Open"
+          time: "16:00"
+        - type: "Close"
+          time: "21:00"
+      mon:
+        - type: "Close"
+      tue:
+        - type: "Open"
+          time: "16:00"
+        - type: "Close"
+          time: "22:00"
+      wed:
+        - type: "Open"
+          time: "11:00"
+        - type: "Close"
+          time: "22:00"
+      thu:
+        - type: "Open"
+          time: "11:00"
+        - type: "Close"
+          time: "22:00"
+      fri:
+        - type: "Open"
+          time: "11:00"
+        - type: "Close"
+          time: "22:00"
+      sat:
+        - type: "Open"
+          time: "11:00"
+        - type: "Close"
+          time: "22:00"
+  - address: "45a Naparima Mayaro Road, Cocoyea, San Fernando"
+    city: "San Fernando"
+    island: "Trinidad"
+    latlon: [10.280739452959832, -61.44299861662061]
+    phone: "234-0190"
+    whatsapp: "234-0190"
+    subcategories: []
+    orderingtables: []
+    delivery:
+    opening_hours:
+      mode: "Auto"
+      sun:
+        - type: "Open"
+          time: "11:00"
+        - type: "Close"
+          time: "19:00"
+      mon:
+        - type: "Close"
+      tue:
+        - type: "Open"
+          time: "11:00"
+        - type: "Close"
+          time: "19:00"
+      wed:
+        - type: "Open"
+          time: "11:00"
+        - type: "Close"
+          time: "19:00"
+      thu:
+        - type: "Open"
+          time: "11:00"
+        - type: "Close"
+          time: "19:00"
+      fri:
+        - type: "Open"
+          time: "11:00"
+        - type: "Close"
+          time: "19:00"
+      sat:
+        - type: "Open"
+          time: "11:00"
+        - type: "Close"
+          time: "19:00"

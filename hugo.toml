@@ -52,12 +52,12 @@ theme = '_menus_ttms'
   
 # Social profiles
 [params.social]
-  facebook = ""
-  instagram = ""
-  tiktok = ""
+  facebook = "https://www.facebook.com/sakuraartsmarketplace"
+  instagram = "https://www.instagram.com/sakuraartsmarketplace/"
+  tiktok = "https://www.tiktok.com/@sakuraartsmarketplace"
   youtube = ""
-  email = ""
-  phone = 0
+  email = "sakura.arts.sushi@gmail.com"
+  phone = 2401599
   
 [markup]
   [markup.goldmark]
