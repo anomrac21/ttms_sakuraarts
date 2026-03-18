@@ -3,8 +3,8 @@ title: Supreme California (Cooked)
 weight: 3
 date: 2025-01-26T00:00:00.000Z
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 49
 tags: ["Sushi","Roll","Classic"]
 specials: []

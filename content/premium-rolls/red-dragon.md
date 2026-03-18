@@ -3,8 +3,8 @@ title: Red Dragon (Raw)
 weight: 3
 date: 2025-01-26T00:00:00.000Z
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 88
 tags: ["Sushi","Roll","Premium"]
 specials: []

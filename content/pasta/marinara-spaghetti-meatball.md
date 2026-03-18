@@ -3,8 +3,8 @@ title: Marinara Spaghetti with Meatball
 weight: 14
 date: 2025-01-26T00:00:00.000Z
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 65
 tags: ["Pasta","Meatball"]
 specials: []

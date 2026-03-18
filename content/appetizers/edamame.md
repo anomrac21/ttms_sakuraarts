@@ -3,8 +3,8 @@ title: Edamame
 weight: 6
 date: 2025-01-26T00:00:00.000Z
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 40
 tags: ["Appetizer","Vegetarian"]
 specials: []

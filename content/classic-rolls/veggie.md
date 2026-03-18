@@ -3,8 +3,8 @@ title: Veggie
 weight: 15
 date: 2025-01-26T00:00:00.000Z
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 45
 tags: ["Sushi","Roll","Classic","Vegetarian"]
 specials: []

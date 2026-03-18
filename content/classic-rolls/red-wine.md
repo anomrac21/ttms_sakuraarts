@@ -3,8 +3,8 @@ title: Red Wine (Raw)
 weight: 19
 date: 2025-01-26T00:00:00.000Z
 prices:
-  - size: "-"
-    flavour: "-"
+  - variable1: "-"
+    variable2: "-"
     price: 61
 tags: ["Sushi","Roll","Classic"]
 specials: []
