@@ -1,35 +1,35 @@
 :root {
-    /* Header */
-    --header-color: #000000ed;
-    --header-bg-color: #222731ee;
-    --header-icon-color: #fefefe;
-    --header-text-color: #fefefe;
-    --header-text-shadow-color: #00000080;
-    --header-bordercolor-1: #dfeed4ff;
-    --header-bordercolor-2: #dfeed4ff;
-    --header-bg-image: none;
+  /* Header — deep vibrant red panel, white text (matches print “MENU” label) */
+  --header-color: #000000;
+  --header-bg-color: #c8102e00;
+  --header-icon-color: #ffffff;
+  --header-text-color: #ffffff;
+  --header-text-shadow-color: #00000059;
+  --header-bordercolor-1: #c8101075;
+  --header-bordercolor-2: #e85d6f;
+  --header-bg-image: none;
 
-  /* Hero */
-    --hero-bg-image-fg-color: #f4dec3;
-    --hero-bg-color: #cb0403;
-    --hero-text-color: #ffffff;
+/* Hero — same red family as header */
+  --hero-bg-image-fg-color: #fff59d;
+  --hero-bg-color: #ffffff;
+  --hero-text-color: #000000;
 
-  /* Main */
-    --main-bg: #cb0403;
-    --main-bg-color: #f4dec3;
-    --main-text-color: #000000;
+/* Main — warm yellow menu body, black copy (print menu list column) */
+  --main-bg: #c81010;
+  --main-bg-color: #ffffff;
+  --main-text-color: #000000;
 
-  /* Menu */
-    --menu-bg-color-1: #22273111;
-    --menu-bg-color-2: #00000055;
-    --menu-text-color: #000000;
+/* Menu — light yellow → golden yellow (subtle depth like seigaiha / wave tone) */
+  --menu-bg-color-1: #ffffff;
+  --menu-bg-color-2: #ffffff;
+  --menu-text-color: #000000;
 
-  /* Buttons */
-    --button-color1: #222731;
-    --button-color2: #000;
-    --button-text-color1: #000000;
-    --selected-button-color1: #f9ca0c;
-    --selected-button-color2: #fbd12f;
-    --selected-button-color3: #000000;
-    --selected-text-color1: #000000;
+/* Buttons — dark controls on yellow; selected state = vibrant yellow + black text */
+  --button-color1: #212121;
+  --button-color2: #000000;
+  --button-text-color1: #ffffff;
+  --selected-button-color1: #ffc400;
+  --selected-button-color2: #ffb300;
+  --selected-button-color3: #c8102e;
+  --selected-text-color1: #000000;
 }
