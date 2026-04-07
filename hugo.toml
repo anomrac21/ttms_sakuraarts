@@ -84,7 +84,7 @@ baseURL = 'https://sakuraarts.ttmenus.com/'
     phone = 18682401599
 
 [params.services]
-    analyticsid = 0
+    analyticsid = 10
     notifications = true
 
 [params.social]
